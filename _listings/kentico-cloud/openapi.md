@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Kentico Cloud
 x-complete: 1
@@ -127,4 +126,3 @@ paths:
       - Visitor
       - By
       - Email
----

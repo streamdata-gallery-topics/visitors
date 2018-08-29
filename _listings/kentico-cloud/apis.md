@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kent
 x-kinRank: "7"
 x-alexaRank: "369033"
 tags: Visitors
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/apis.md
 specificationVersion: "0.14"
 apis:
@@ -160,6 +160,138 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/emaillola-mirablabla-com-delete-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/emaillola-mirablabla-com-delete-openapi.md
+- name: Kentico Cloud - Delete data of visitor by email
+  x-api-slug: emaillola-mirablabla-com-delete
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg
+  humanURL: https://kenticocloud.com/
+  baseURL: https://deliver.kenticocloud.com//
+  tags: SaaS, Technology, Enterprise, Relative Data, Service API, Cloud
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/emaillola-mirablabla-com-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/emaillola-mirablabla-com-delete-openapi.md
+- name: Kentico Cloud - Delete data of visitor by email
+  x-api-slug: emaillola-mirablabla-com-delete
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg
+  humanURL: https://kenticocloud.com/
+  baseURL: https://deliver.kenticocloud.com//
+  tags: SaaS, Technology, Enterprise, Relative Data, Service API, Cloud
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/emaillola-mirablabla-com-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/emaillola-mirablabla-com-delete-openapi.md
+- name: Kentico Cloud - View data of visitor by email
+  x-api-slug: emaillola-mirablabla-com-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg
+  humanURL: https://kenticocloud.com/
+  baseURL: https://deliver.kenticocloud.com//
+  tags: SaaS, Technology, Enterprise, Relative Data, Service API, Cloud
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/emaillola-mirablabla-com-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/emaillola-mirablabla-com-get-openapi.md
+- name: Kentico Cloud - View data of visitor by email
+  x-api-slug: emaillola-mirablabla-com-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg
+  humanURL: https://kenticocloud.com/
+  baseURL: https://deliver.kenticocloud.com//
+  tags: SaaS, Technology, Enterprise, Relative Data, Service API, Cloud
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/emaillola-mirablabla-com-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/emaillola-mirablabla-com-get-openapi.md
+- name: Kentico Cloud - View data of visitor by email
+  x-api-slug: emaillola-mirablabla-com-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg
+  humanURL: https://kenticocloud.com/
+  baseURL: https://deliver.kenticocloud.com//
+  tags: SaaS, Technology, Enterprise, Relative Data, Service API, Cloud
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/emaillola-mirablabla-com-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/emaillola-mirablabla-com-get-openapi.md
+- name: Kentico Cloud - Delete data of visitor by ID
+  x-api-slug: uid7888c9a3824a11f1-delete
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg
+  humanURL: https://kenticocloud.com/
+  baseURL: https://deliver.kenticocloud.com//
+  tags: SaaS, Technology, Enterprise, Relative Data, Service API, Cloud
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/uid7888c9a3824a11f1-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/uid7888c9a3824a11f1-delete-openapi.md
+- name: Kentico Cloud - View data of visitor by ID
+  x-api-slug: uid7888c9a3824a11f1-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg
+  humanURL: https://kenticocloud.com/
+  baseURL: https://deliver.kenticocloud.com//
+  tags: SaaS, Technology, Enterprise, Relative Data, Service API, Cloud
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/uid7888c9a3824a11f1-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/uid7888c9a3824a11f1-get-openapi.md
+- name: Kentico Cloud - View data of visitor by ID
+  x-api-slug: uid7888c9a3824a11f1-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg
+  humanURL: https://kenticocloud.com/
+  baseURL: https://deliver.kenticocloud.com//
+  tags: SaaS, Technology, Enterprise, Relative Data, Service API, Cloud
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/uid7888c9a3824a11f1-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/uid7888c9a3824a11f1-get-openapi.md
+- name: Kentico Cloud - List segments of a visitor
+  x-api-slug: visitor569030c752a544f5a243c5285b3eb24e7888c9a3824a11f1segments-get
+  description: Retrieve the names of segments that the specified visitor belongs to.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg
+  humanURL: https://kenticocloud.com/
+  baseURL: https://deliver.kenticocloud.com//
+  tags: SaaS, Technology, Enterprise, Relative Data, Service API, Cloud
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/visitor569030c752a544f5a243c5285b3eb24e7888c9a3824a11f1segments-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/visitor569030c752a544f5a243c5285b3eb24e7888c9a3824a11f1segments-get-openapi.md
+- name: Kentico Cloud - List segments of a visitor
+  x-api-slug: visitor569030c752a544f5a243c5285b3eb24e7888c9a3824a11f1segments-get
+  description: Retrieve the names of segments that the specified visitor belongs to.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg
+  humanURL: https://kenticocloud.com/
+  baseURL: https://deliver.kenticocloud.com//
+  tags: SaaS, Technology, Enterprise, Relative Data, Service API, Cloud
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/visitor569030c752a544f5a243c5285b3eb24e7888c9a3824a11f1segments-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/visitor569030c752a544f5a243c5285b3eb24e7888c9a3824a11f1segments-get-openapi.md
+- name: Kentico Cloud - List segments of a visitor
+  x-api-slug: visitor569030c752a544f5a243c5285b3eb24e7888c9a3824a11f1segments-get
+  description: Retrieve the names of segments that the specified visitor belongs to.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg
+  humanURL: https://kenticocloud.com/
+  baseURL: https://deliver.kenticocloud.com//
+  tags: SaaS, Technology, Enterprise, Relative Data, Service API, Cloud
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/visitor569030c752a544f5a243c5285b3eb24e7888c9a3824a11f1segments-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/visitor569030c752a544f5a243c5285b3eb24e7888c9a3824a11f1segments-get-openapi.md
 x-common:
 - type: x-blog-rss
   url: https://kenticocloud.com/rss

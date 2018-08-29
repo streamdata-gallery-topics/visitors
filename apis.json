@@ -1,0 +1,109 @@
+{
+	"name": "Streadata.io API Gallery - Visitors",
+	"description": "This is a repository of visitors APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/visitors.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://visitors.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Opentracker",
+			"x-api-slug": "opentracker",
+			"description": "Use real time analytics to engage with your customers. Monitor behavior on your sit as it happens. Advanced event analytics platform. Free trial.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/903-opentracker.jpg",
+			"humanURL": "http://www.opentracker.net/",
+			"baseURL": "https:///",
+			"tags": "Visitors",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/opentracker/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Envoy",
+			"x-api-slug": "envoy",
+			"description": "Envoy is visitor management software for modern offices. Easily manage visitor registration, deliveries, and document signing  all from an iPad. Try it free!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19407-envoy-(slackbot).jpg",
+			"humanURL": "https://envoy.com",
+			"baseURL": "https:///",
+			"tags": "Visitors",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/envoy/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Entertainment Express",
+			"x-api-slug": "entertainment-express",
+			"description": "Internet Video Archive (IVA) is a leading entertainment data company providing metadata, images and trailers/clips, for movie and TV content. With the launch of its award-winning Entertainment Express APIs, clients can easily access everything they need to create engaging content discovery experiences. By using Entertainment Express, clients can also connect to other services like movie showtimes and ticketing, content recommendations, content availability and TV channel line-ups. With over a million titles, episodes and over 150,000 videos available, IVA makes it easy for developers to integrate all the services they need at a very affordable price.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IVA-logo.png",
+			"humanURL": "https://www.internetvideoarchive.com/",
+			"baseURL": "https://ee.iva-api.com//",
+			"tags": "Visitors",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/entertainment-express/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Kentico Cloud",
+			"x-api-slug": "kentico-cloud",
+			"description": "Kentico Cloud is the #1 CMS that enables digital teams to collaborate quickly to create engaging personalized experiences across any device. Free 30-day trial!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg",
+			"humanURL": "https://kenticocloud.com/",
+			"baseURL": "https://deliver.kenticocloud.com//",
+			"tags": "Visitors",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "LiveChat",
+			"x-api-slug": "livechat",
+			"description": "LiveChat is an offline customer service software with live support, help desk software, and web analytics capabilities.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg",
+			"humanURL": "https://www.livechatinc.com/",
+			"baseURL": "https://api.livechatinc.com//",
+			"tags": "Visitors",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/livechat/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Visitors",
+	"include": [
+		{
+			"name": "Opentracker",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/opentracker/apis.yaml"
+		},
+		{
+			"name": "Envoy",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/envoy/apis.yaml"
+		},
+		{
+			"name": "Entertainment Express",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/entertainment-express/apis.yaml"
+		},
+		{
+			"name": "Kentico Cloud",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/kentico-cloud/apis.yaml"
+		},
+		{
+			"name": "LiveChat",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/visitors/master/_listings/livechat/apis.yaml"
+		}
+	]
+}
